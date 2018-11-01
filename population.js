@@ -1,3 +1,0 @@
-population.js
-
-function Population(){}
