@@ -41,4 +41,4 @@ Begin by choosing a scale for your fitnees. Scales of 10 or 100 are often very i
 The population class is not complete. The birth function has not fully been completed however there is starter code there. While individual classes have been tested using print statements within fuction and cleared parts of the driver. There is not a driver. Thusly the *biggest* feature missing is a class which can induce the creation of a population of bugs and monitor this population with regard to generations. 
 
 ### Getting Started 
-This code can be downloaded and run in any java compatable system. The code was written in IntelleJ but other formats could also be appropriate. 
+This code can be downloaded and run in any java compatable system. The code was written in IntelleJ but other formats could also be appropriate. The as stated previously there is not a functioning driver/tester/runner for the created classes. Therefor, before any progress can be made this would need to be created. There should be no other impedements to begin work on this system if you have read the basic of genetic algorithm breakdown listed above. 
