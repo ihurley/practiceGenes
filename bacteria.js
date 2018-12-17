@@ -1,11 +1,33 @@
 //Constructor Fuction
 
-function Bacteria(dna) {
+
+
+
+
+
+
+
+
+class Bacteria {
+
  
-string 
-  if (dna) {
-    this.dna = dna;
-  } else {
-    this.dna = new DNA();
+ constructor(dna, hasA, hasB){
+ 	this.dna = dna;
+ 	this.fitness = fitness();
+ 	this.hasB = false;
+ 	this.hasA = false;
+ }
+
+
+function fitness (individual){
+
+}
+
+
   }
-  this.fitness = 0;
+
+  class Population{
+
+	var array = [];
+
+}
