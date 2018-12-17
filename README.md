@@ -3,21 +3,21 @@ Genetic algorithms are methods for representing optimization based upon natural 
 Genetic algorithms reach optimizations by modifying populations through trait mutation.
 Evolution occurs in genetic programs as children are created and generations are tested against “environmental standards”. 
 This program aims to model E coli genetic evolution with the environmental pressure of ampicillin.
-This specific case of evolution has been shown in medical testing systems to have horizontal gene transfer rather than typical vertical transfer based on cloning. 
+This specific case of evolution has been shown in medical testing systems to have horizontal gene transfer rather than typical vertical transfer based on cloning. This project is based on a class of DNA, a specialized plasmid carrying bacteria class, and a population class.
 
 One of the classes contained is a python file called practice.py. This file was coded from a tutorial  where I drew inspiration for the different elements of my project. The bacteria.js file is a previously thought out code structure which remains in case a future collaborator would wish to translate the project into python. 
 
 ## The Bacteria folder is the bulk of the functional code. This folder provides an (while incomplete) program for create predictive models of e coli in response to ampicillin.
 
-        * The goal of Driver is to create a program that can run sample populations through multiple generations. This program aims to create predictive data of e coli resistance.
+        * The goal of Driver is to create a program that can run sample populations through multiple generations. This program aims to create predictive data of e coli resistance. The driver is incomplete; however, as outlined in the unimplemented features header, this program will aim to create, test and display generational evolutions with regard to resistance. 
 
-        *The goal of Bacteria is to create a class that holds information necessary for a testable e coli bacteria. This class holds the resistance data and fitness calculations.
+        *The goal of Bacteria is to create a class that holds information necessary for a testable e coli bacteria. This class holds the resistance data and fitness calculations. 
 
         * The goal of Population is to create a program that can create sample populations of e coli bugs and calculate the total fitness while adhering to population growth pressures.
 
-        * The goal of DNA is to create a program is to create and replicate the plain DNA sequence for an e coli bacteria.
+        * The goal of DNA is to create a program is to create and replicate the plain DNA sequence for an e coli bacteria. This class aims to represent ths puC18 material of an ecoli ring. This feature accounts for random genetic error and serves as part of the instance data for the bacteria class. 
 
-        * The goal of Bacteria is to create a class that can model plasmid structure and separation for bacteria. These values will supplement the fitness calculations of the bacteria.
+        * The goal of Node is to create a class that can model plasmid structure and separation for bacteria. These values  supplement the fitness calculations of the bacteria. The connective nature of this class helps to regulate plastids with regard to volumetric restrictions of bacteria. 
 
        
 
