@@ -9,15 +9,15 @@ One of the classes contained is a python file called practice.py. This file was 
 
 ## The Bacteria folder is the bulk of the functional code. This folder provides an (while incomplete) program for create predictive models of e coli in response to ampicillin.
 
-        ..* The goal of Driver is to create a program that can run sample populations through multiple generations. This program aims to create predictive data of e coli resistance.
+        * The goal of Driver is to create a program that can run sample populations through multiple generations. This program aims to create predictive data of e coli resistance.
 
-        ..*The goal of Bacteria is to create a class that holds information necessary for a testable e coli bacteria. This class holds the resistance data and fitness calculations.
+        *The goal of Bacteria is to create a class that holds information necessary for a testable e coli bacteria. This class holds the resistance data and fitness calculations.
 
-        ..* The goal of Population is to create a program that can create sample populations of e coli bugs and calculate the total fitness while adhering to population growth pressures.
+        * The goal of Population is to create a program that can create sample populations of e coli bugs and calculate the total fitness while adhering to population growth pressures.
 
-        ..* The goal of DNA is to create a program is to create and replicate the plain DNA sequence for an e coli bacteria.
+        * The goal of DNA is to create a program is to create and replicate the plain DNA sequence for an e coli bacteria.
 
-        ..* The goal of Bacteria is to create a class that can model plasmid structure and separation for bacteria. These values will supplement the fitness calculations of the bacteria.
+        * The goal of Bacteria is to create a class that can model plasmid structure and separation for bacteria. These values will supplement the fitness calculations of the bacteria.
 
        
 
