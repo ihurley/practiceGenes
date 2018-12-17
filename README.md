@@ -11,7 +11,7 @@ One of the classes contained is a python file called practice.py. This file was 
 
 ..* The goal of Driver is to create a program that can run sample populations through multiple generations. This program aims to create predictive data of e coli resistance.
 
-..* The goal of Bacteria is to create a class that holds information necessary for a testable e coli bacteria. This class holds the resistance data and fitness calculations.
+..*The goal of Bacteria is to create a class that holds information necessary for a testable e coli bacteria. This class holds the resistance data and fitness calculations.
 
 ..* The goal of Population is to create a program that can create sample populations of e coli bugs and calculate the total fitness while adhering to population growth pressures.
 
@@ -24,7 +24,7 @@ One of the classes contained is a python file called practice.py. This file was 
 ..* Here is an explanation the basics of creating a genetic algorithm. 
 
         1. In order to create a sample population 
-A sample population will need to start with a variety of organisms with some sort of genetic variety. 
+..* A sample population will need to start with a variety of organisms with some sort of genetic variety. 
 Genetics can be represented in a host of different ways. While strings of base pair equivalent sets may be the most obvious solution. However such presence could be coded for using binary bit compression or a series of other variables. If a string based on the genetic sequence is the preferable representation than a program such as snapGene or snapGene viewer will be incredibly helpful. Here you can isolate the specific functional groups of the DNA that need to be included and get the sequence for those groups. Genetic algorithms which focus on specific mutations are going to differ greatly from those which focus more largely on environments and populations. When considering how to represent the genetic material crucial to your experiment it is also important to consider how genetics are processed in the reproduction of such an organism. In order to procure data representative of a sexually reproducing organism, data that can be set to crossover and intermix at chromosomal centromere separation accurate rates is also important. A sexually reproducing organisms will not need these same capabilities as they reproduce through processes of cloning. However, in considering asexual reproducers one must also understand the role of plasmid based horizontal gene transfer.  
 For this sample population it is crucial to have trackers on how close the bugs are to each other. This allows for accurate horizontal gene transfer to occur. Also, when dealing with transferable genetics in a single generation it is advantageous to represent these through variables rather than full sequences as plasmids often exist outside the main genetic ring of bacterium. 
 
