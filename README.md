@@ -37,3 +37,8 @@ The impetus behind mapping evolution through genetic programs is most often an i
     3. In order to create a fitness standard
 Begin by choosing a scale for your fitnees. Scales of 10 or 100 are often very intuitive and thus a good bet. Then analyze the factors going into your fitness. What are the mutations that cause increases or decreases in fitness and how do environmental factors affect prevalence of these factors. Comment your fitness scale and standards above your fitness calculation despite the fact that these will not be used here. Then using scaled equations choose a fitness calculation that will produce individuals whom will be properly affected by your standards. 
 
+## Unimplemented Features
+The population class is not complete. The birth function has not fully been completed however there is starter code there. While individual classes have been tested using print statements within fuction and cleared parts of the driver. There is not a driver. Thusly the *biggest* feature missing is a class which can induce the creation of a population of bugs and monitor this population with regard to generations. 
+
+### Getting Started 
+This code can be downloaded and run in any java compatable system. The code was written in IntelleJ but other formats could also be appropriate. 
